@@ -1,2 +1,3 @@
-# codewarsTasks
-codewars tasks
+# codewars tasks
+
+## 6kyu "Two Sum"

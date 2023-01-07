@@ -12,6 +12,8 @@
 
 #### "Find the odd int"
 
+#### "Counting Duplicates"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

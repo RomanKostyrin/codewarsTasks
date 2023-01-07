@@ -1,7 +1,15 @@
 # codewars tasks
 
-## 6kyu "Two Sum"
+[![Profile badge](https://www.codewars.com/users/RomanKostyrin/badges/large)](https://www.codewars.com/users/RomanKostyrin)
 
-## 6kyu "Maximum subarray sum"
+### 6kyu
 
-## 6kyu "Maximum subarray sum 2"
+#### "Two Sum"
+
+#### "Maximum subarray sum"
+
+#### "Simple array rotation"
+
+### 5kyu
+
+#### "Maximum subarray sum 2"

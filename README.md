@@ -18,6 +18,8 @@
 
 #### "Does my number look big in this?"
 
+#### "Playing with digits"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

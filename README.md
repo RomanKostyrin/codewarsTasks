@@ -10,6 +10,8 @@
 
 #### "Simple array rotation"
 
+#### "Find the odd int"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

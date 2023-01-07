@@ -14,6 +14,8 @@
 
 #### "Counting Duplicates"
 
+#### "Replace With Alphabet Position"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

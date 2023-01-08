@@ -20,6 +20,8 @@
 
 #### "Playing with digits"
 
+#### "Equal Sides Of An Array"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

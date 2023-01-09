@@ -24,6 +24,8 @@
 
 #### "Detect Pangram"
 
+#### "Find the missing letter"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

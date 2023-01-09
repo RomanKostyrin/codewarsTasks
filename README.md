@@ -28,6 +28,8 @@
 
 #### "Sum of Two Integers"
 
+#### "Walk-up Stairs"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

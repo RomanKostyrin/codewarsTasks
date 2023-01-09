@@ -22,6 +22,8 @@
 
 #### "Equal Sides Of An Array"
 
+#### "Detect Pangram"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

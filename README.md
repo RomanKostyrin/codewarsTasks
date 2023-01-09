@@ -26,6 +26,8 @@
 
 #### "Find the missing letter"
 
+#### "Sum of Two Integers"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

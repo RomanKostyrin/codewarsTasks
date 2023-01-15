@@ -32,6 +32,8 @@
 
 #### "Walk-up Stairs"
 
+#### "Parse a linked list from a string"
+
 ### 5kyu
 
 #### "Maximum subarray sum 2"

@@ -51,3 +51,5 @@
 #### "Remove Duplicates from Sorted Array"
 
 #### "Plus one"
+
+#### "Sqrt(x)"

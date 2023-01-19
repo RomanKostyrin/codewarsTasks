@@ -59,3 +59,5 @@
 #### "Reverse String"
 
 #### "Intersection of Two Arrays II"
+
+#### "Majority Element"

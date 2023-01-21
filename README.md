@@ -67,3 +67,5 @@
 #### "Excel Sheet Column Number"
 
 #### "Contains Duplicate"
+
+#### "Valid Anagram"

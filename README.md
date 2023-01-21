@@ -65,3 +65,5 @@
 #### "Best Time to Buy and Sell Stock"
 
 #### "Excel Sheet Column Number"
+
+#### "Contains Duplicate"

@@ -38,6 +38,8 @@
 
 #### "Maximum subarray sum 2"
 
+#### "First non-repeating character"
+
 # leetCode
 
 #### "Longest Common Prefix"

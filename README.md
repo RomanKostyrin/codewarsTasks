@@ -75,3 +75,5 @@
 #### "Fizz Buzz"
 
 #### "Move Zeroes"
+
+#### "Power of Three"

@@ -6,6 +6,8 @@
 
 #### "Two Sum"
 
+#### "Find the unique number"
+
 #### "Maximum subarray sum"
 
 #### "Simple array rotation"

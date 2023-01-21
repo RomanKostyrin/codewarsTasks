@@ -83,3 +83,5 @@
 #### "First Unique Character in a String"
 
 #### "Happy Number"
+
+#### "Single Number"

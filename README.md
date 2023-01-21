@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Happy Numbers"
+
 #### "Two Sum"
 
 #### "Find the unique number"

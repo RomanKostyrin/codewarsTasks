@@ -71,3 +71,5 @@
 #### "Valid Anagram"
 
 #### "Missing Number"
+
+#### "Fizz Buzz"

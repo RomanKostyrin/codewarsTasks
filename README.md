@@ -81,3 +81,5 @@
 #### "Power of Three"
 
 #### "First Unique Character in a String"
+
+#### "Happy Number"

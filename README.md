@@ -77,3 +77,5 @@
 #### "Move Zeroes"
 
 #### "Power of Three"
+
+#### "First Unique Character in a String"

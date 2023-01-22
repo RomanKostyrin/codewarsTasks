@@ -89,3 +89,5 @@
 #### "Happy Number"
 
 #### "Single Number"
+
+#### "Valid Palindrome"

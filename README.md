@@ -6,6 +6,8 @@
 
 #### "Happy Numbers"
 
+#### "Perfect Queues
+
 #### "Two Sum"
 
 #### "Find the unique number"
@@ -37,6 +39,8 @@
 #### "Walk-up Stairs"
 
 #### "Parse a linked list from a string"
+
+#### "Perfect Square"
 
 ### 5kyu
 

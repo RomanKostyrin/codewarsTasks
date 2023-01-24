@@ -6,6 +6,8 @@
 
 #### "Happy Numbers"
 
+#### "Build Tower"
+
 #### "Perfect Queues
 
 #### "Two Sum"

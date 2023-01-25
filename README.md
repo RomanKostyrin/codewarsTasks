@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Highest Scoring Word"
+
 #### "Happy Numbers"
 
 #### "Build Tower"

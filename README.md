@@ -6,6 +6,8 @@
 
 #### "Highest Scoring Word"
 
+#### "Count the smiley faces!"
+
 #### "Happy Numbers"
 
 #### "Build Tower"

@@ -52,6 +52,8 @@
 
 ### 5kyu
 
+#### "Calculating with Functions"
+
 #### "Maximum subarray sum 2"
 
 #### "First non-repeating character"

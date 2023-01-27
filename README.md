@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Is a number prime?"
+
 #### "Highest Scoring Word"
 
 #### "Count the smiley faces!"

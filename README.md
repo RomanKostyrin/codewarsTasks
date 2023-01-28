@@ -58,6 +58,10 @@
 
 #### "First non-repeating character"
 
+### 4kyu
+
+#### "Longest Palindromic Substring (linear)"
+
 # leetCode
 
 #### "Longest Common Prefix"

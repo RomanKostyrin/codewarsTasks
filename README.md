@@ -60,9 +60,13 @@
 
 ### 4kyu
 
+#### "Balanced parentheses string"
+
 #### "Longest Palindromic Substring (linear)"
 
 # leetCode
+
+#### "Generate Parentheses"
 
 #### "Longest Common Prefix"
 

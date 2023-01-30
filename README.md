@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Decode the Morse code"
+
 #### "Is a number prime?"
 
 #### "Highest Scoring Word"

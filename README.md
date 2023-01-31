@@ -68,6 +68,8 @@
 
 # leetCode
 
+#### "Remove Element"
+
 #### "Palindrome Number"
 
 #### "Generate Parentheses"

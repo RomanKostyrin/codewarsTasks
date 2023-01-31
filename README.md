@@ -68,6 +68,8 @@
 
 # leetCode
 
+#### "Palindrome Number"
+
 #### "Generate Parentheses"
 
 #### "Longest Common Prefix"

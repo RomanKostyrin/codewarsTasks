@@ -68,6 +68,8 @@
 
 # leetCode
 
+#### "Search Insert Position"
+
 #### "Remove Element"
 
 #### "Palindrome Number"

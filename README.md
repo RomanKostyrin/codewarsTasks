@@ -68,6 +68,8 @@
 
 # leetCode
 
+#### "Build Array from Permutation"
+
 #### "Partitioning Into Minimum Number Of Deci-Binary Numbers"
 
 #### "Combination Sum"

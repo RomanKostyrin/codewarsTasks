@@ -70,6 +70,8 @@
 
 #### "Build Array from Permutation"
 
+#### "3Sum"
+
 #### "Partitioning Into Minimum Number Of Deci-Binary Numbers"
 
 #### "Combination Sum"

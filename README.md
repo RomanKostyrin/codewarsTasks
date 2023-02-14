@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Write Number in Expanded Form"
+
 #### "Which are in?"
 
 #### "Are they the "same"?"

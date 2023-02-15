@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "CamelCase Method"
+
 #### "Write Number in Expanded Form"
 
 #### "Which are in?"

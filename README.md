@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Count characters in your string"
+
 #### "CamelCase Method"
 
 #### "Write Number in Expanded Form"

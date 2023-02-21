@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "WeIrD StRiNg CaSe"
+
 #### "Count characters in your string"
 
 #### "CamelCase Method"

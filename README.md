@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Give me a Diamond"
+
 #### "WeIrD StRiNg CaSe"
 
 #### "Count characters in your string"

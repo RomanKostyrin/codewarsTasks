@@ -4,6 +4,8 @@
 
 ### 6kyu
 
+#### "Multiplication table"
+
 #### "Give me a Diamond"
 
 #### "WeIrD StRiNg CaSe"
